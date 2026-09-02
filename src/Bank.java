@@ -1,5 +1,5 @@
 public class Bank {
     public static void main(String[] args) {
-        System.out.println("========== AAA-BBB은행 ==========");
+        Account a = new Account("홍길동", 50000);
     }
 }
